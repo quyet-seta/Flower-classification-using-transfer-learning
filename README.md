@@ -13,5 +13,7 @@
 4. sklearn
 ## Result
 1. Chiến lược Feature extractor
+
+
 ![image](https://user-images.githubusercontent.com/71560376/133905865-ec799445-857d-47d7-bc4d-2cecdfcd3fbf.png)
 
