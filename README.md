@@ -16,5 +16,10 @@
 
 
 ![image](https://user-images.githubusercontent.com/71560376/133905865-ec799445-857d-47d7-bc4d-2cecdfcd3fbf.png)
+
+
+2. Chiến lược Fine tuning
+
+
 ![image](https://user-images.githubusercontent.com/71560376/133907286-1b29b205-565d-4756-a288-3267e7f0dbe1.png)
 
